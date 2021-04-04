@@ -6,6 +6,6 @@ Google_sholars and ACM digital library crawler for collecting papers title, auth
 2. Run code :D
 
 # warning
-Both google scholars and ACM digital Library will block ip after sending so many request. In my experience. I got blok from ACM after 4-5k request. Therefore i had to run code yearly basis with small range of pagination. I did my job done. was able to scrape 20k+ data.
+Both google scholars and ACM digital Library will block IP after sending so many requests. In my experience, I got blocked from ACM after a 4-5k request. Therefore, I had to run a yearly code basis with a small range of pagination. I did my job done. was able to scrape 20k+ data.
 
-but for gooogle scholars I got block after 1000 request. I put a sleep code to controll each loop run time. However, this propblem will continue. I would suggest to use multiple computer or different IP after some intervals.
+But for google scholar, I got block after 1000 requests. I put a sleep code to control each loop run time. However, this problem will continue. I would suggest using multiple computers or different IPs after some intervals.
